@@ -1,12 +1,12 @@
 # jemdoc-resume
 
 demo: https://jemnz.com/
-![alt text](demo.jpg "title")
+![alt text](images/demo.jpg "title")
 
 ## 生成网页
 index.jemdoc ----> index.html
 ```
-$ python2 jemdoc index.jemdoc
+$ python2 jemdoc.py index.jemdoc
 ```
 
 ## 语法说明
