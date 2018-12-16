@@ -1,5 +1,6 @@
 # jemdoc-resume
 
+from: https://github.com/jem/jemdoc
 demo: https://jemnz.com/
 ![alt text](images/demo.jpg "title")
 
@@ -10,8 +11,7 @@ $ python2 jemdoc.py index.jemdoc
 ```
 
 ## 语法说明
-1. http://jemdoc.jaboc.net/
-2. https://github.com/jem/jemdoc
+http://jemdoc.jaboc.net/
 
 例如：
 
