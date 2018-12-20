@@ -1,96 +1,93 @@
-# jemdoc: addcss{jacob.css}, showsource
-= Jacob Mattingley
+# jemdoc: title{Zhang Bincheng(张彬城)}, showsource
+= Zhang Bincheng
 
 ~~~
-{}{img_left}{images/jacobm2.png}{Jacob Mattingley}
-[https://jemnz.com/ Jacob Mattingley], Ph.D.
-({{<a href="http://newzealand.com"><img src="images/nz.png" alt="NZ" /></a>}}) \n
-(Formerly) [http://www-ee.stanford.edu/ Department of Electrical Engineering]\n
-[http://www.stanford.edu/ Stanford University]\n\n
-Former advisor: [http://www.stanford.edu/~boyd/ Professor Stephen Boyd]
+{}{img_left}{images/me.jpg}{Zhang Bincheng}{150}{150}
+- 张彬城 · 研究生 · 1997-11-27 ({{<img src="images/china.png" alt="china" />}}) \n
+- [https://www.xmu.edu.cn/ 厦门大学] [http://information.xmu.edu.cn/ 信息科学技术学院] [http://cs.xmu.edu.cn/  计算机科学系]\n
+- 研究方向：计算机视觉 图像处理\n
+- E-mail: 1656704949@qq.com
+- GitHub: [https://github.com/littleredhat1997 https://github.com/littleredhat1997]
 ~~~
-
-== Contact
-[www@jemnz.com]
-~~~
-{}{raw}
-<a href="https://twitter.com/jem_nz" class="twitter-follow-button">Follow @jem_nz</a>
-<script>!function(d,s,id){var
-js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
-'script', 'twitter-wjs');</script>
-~~~
-
-== Research
-- Automatic code generation for embedded convex optimization
-- Computer modeling of convex problems
-
-== Software
-- [http://cvxgen.com/ CVXGEN], an online tool for creating extremely fast
-  solvers
-- [http://cvxmod.net/ CVXMOD], a Python tool for convex optimization 
-- [http://jemdoc.jaboc.net/ jemdoc], a light, $\mbox{\LaTeX}$ equation
-  supporting, text-based markup language for creating websites
-
-== Papers
-- [http://stanford.edu/~boyd/papers/code_gen_impl.html CVXGEN: A Code Generator
-  for Embedded Convex Optimization], J. Mattingley and S. Boyd,
-  /Optimization and Engineering/, 13(1):1--27, 2012
-- [http://stanford.edu/~boyd/papers/code_gen_rhc.html Code Generation for
-  Receding Horizon Control], J. Mattingley, Y. Wang and S. Boyd,
-  /Proceedings IEEE Multi-Conference on Systems and Control/, pages 985--992,
-  Yokohama, Japan, September 2010
-- [http://stanford.edu/~boyd/papers/rt_cvx_sig_proc.html Real-Time Convex
-  Optimization in Signal Processing], J. Mattingley and S. Boyd, 
-  /IEEE Signal Processing Magazine/, 27(3):50--61, May 2010
-- [http://stanford.edu/~boyd/papers/rt_cvx_opt.html Automatic Code Generation
-  for Real-Time Convex Optimization], J. Mattingley and S. Boyd,
-  chapter in /Convex Optimization in Signal Processing and Communications/, Y.
-  Eldar and D. Palomar, Eds., Cambridge University Press, 2009
-
-== Talks
-- [code_gen_impl_slides.pdf *Code Generation for Embedded Convex Optimization*],
-  given at Stanford University in October 2010, and [http://www.jpl.nasa.gov/ NASA
-  JPL] and [http://www.caltech.edu/ Caltech] in November 2010.
-- [msc10-mattingley.pdf Code Generation for Receding Horizon Control],
-  given at [http://www.mei.titech.ac.jp/msc10/ IEEE MSC] in Yokohama, Japan,
-  September 2010
-- [berkeley10-mattingley.pdf Embedded Convex Optimization], given at
-  [http://embedded.eecs.berkeley.edu/seminar/ UC Berkeley] and at
-  [http://www.kuleuven.be/ KU Leuven], March 2010
-- [informs08-mattingley.pdf CVXMOD: Convex Optimization in Python], given at
-  the [http://meetings.informs.org/DC08/ INFORMS Annual Meeting] in Washington
-  DC, 2008
-
-
-== Teaching
-Instructor for:
-- Introduction to Linear Dynamical Systems
-  ([http://www.stanford.edu/class/ee263s/ EE263s]), Stanford University, Summer 2009
-- [http://www.kuleuven.be/optec/athens/2010 Embedded and Convex Optimization for
-  Control], one week course, KU Leuven, Belgium, March 2010
-
-Teaching assistant at Stanford University for:
-- Introduction to Linear Dynamical Systems
-  ([http://www.stanford.edu/class/ee263/ EE263]), Autumn 2006, 2007 and 2008
-- Linear Dynamical Systems ([http://www.stanford.edu/class/ee363/ EE363]),
-  Winter 2009
-- Convex Optimization I ([http://www.stanford.edu/class/ee364a/ EE364a]),
-  Winter 2008
-- Convex Optimization II ([http://www.stanford.edu/class/ee364b/ EE364b]),
-  Winter 2007 and Spring 2008
 
 == Education
-- Ph.D., Electrical Engineering, [http://www.stanford.edu Stanford University],
-  March 2011
-- M.S., Electrical Engineering, [http://www.stanford.edu Stanford University],
-  June 2007
-- B.E. (Hons) (First class), Electrical and Computer Engineering,
-  [http://www.canterbury.ac.nz Canterbury University], April 2005
+- [https://www.xmu.edu.cn/ 厦门大学] - 研究生 - 计算机技术
+- 导师：[http://cs.xmu.edu.cn/cs/node/145 杨晨晖（教授）]
 
-== Assorted other pages
-- [lp75.html Extremely short Matlab LP solvers] (fewer than 80 characters
-  per solver)
-- [vim.html vim:essentials], a short page describing some of the essential
-  features of the [http://www.vim.org/ vim] text editor
-- [matrixmultiply.html Matrix multiplication speeds] in C
-- Various [computationspeeds.html computation speeds] in C
+- [https://www.jnu.edu.cn/ 暨南大学] - 本科生 - 软件工程
+- 导师：[https://xxxy.jnu.edu.cn/Item/1534.aspx 翁健（教授）]
+
+== Practice
+- 华为技术有限公司 - 大数据开发工程师 - 2018.7-2018.9
+
+== Research
+- [www.baidu.com 暂无], Zhang Bincheng, 2020
+- [www.baidu.com 暂无], Zhang Bincheng, 2020
+- [www.baidu.com 暂无], Zhang Bincheng, 2020
+
+== Papers
+- [www.baidu.com 暂无], Zhang Bincheng, 2020
+- [www.baidu.com 暂无], Zhang Bincheng, 2020
+- [www.baidu.com 暂无], Zhang Bincheng, 2020
+
+== Conference
+~~~
+{}{img_left}{images/xdef.jpg}{xdef}{200}{150}
+- [http://www.xdef.org.cn/2017/index.html 2017年第六届全国网络与信息安全防护峰会（XDef安全峰会）]
+~~~
+
+== Competition
+- [http://www.ciscn.cn/ 2017年第十届全国大学生信息安全竞赛], 张彬城（队长）, 一等奖
+- [http://www.cnsoftbei.com/ 2018年第七届“中国软件杯”大学生软件设计大赛], 张彬城（队长）, 二等奖
+- [http://www.tipdm.org/bdrace/ 2018年第六届“泰迪杯”数据挖掘挑战赛], 张彬城（队长）, 一等并获创新信诺奖
+- [http://www.saikr.com/aidc/2018 2018年第八届“华为杯”中国大学生智能设计竞赛], 张彬城（核心成员）, 二等奖
+
+== Scholarship
+- 暨南大学 2017 年度金龙鱼奖学金（本科创新人才专项, 全校仅 30 个名额）
+- 暨南大学 2017 学年优秀学生一等奖学金
+- 暨南大学 2016 学年优秀学生三等奖学金
+
+== Software
+~~~
+{}{img_left}{images/crowdchain.jpg}{crowdchain}{150}{200}
+- 安全众包系统
+~~~
+
+~~~
+{}{img_left}{images/copyright.jpg}{copyright}{150}{200}
+- 数字版权系统
+~~~
+
+~~~
+{}{img_left}{images/reading.jpg}{reading}{150}{200}
+- 智能阅读模型
+~~~
+
+~~~
+{}{img_left}{images/speaking.jpg}{speaking}{150}{200}
+- 智能对话模型
+~~~
+
+~~~
+{}{img_left}{images/cyxy.jpg}{cyxy}{150}{200}
+- [https://cyxy.jnu.edu.cn/ 暨南大学创业学院官网]
+~~~
+
+~~~
+{}{img_left}{images/jichuangclub.jpg}{jichuangclub}{150}{200}
+- [http://jichuangclub.com/ 暨南大学创业俱乐部官网]
+~~~
+
+~~~
+{}{img_left}{images/parking.jpg}{parking}{200}{150}
+- [https://gameinstitute.qq.com/college/competition 2017腾讯72小时游戏制作夏令营]
+-- [https://github.com/littleredhat1997/Parking Parking]
+-- 游戏除了是休闲娱乐产品，你可曾想过，游戏还能拥有改变世界的力量——在游戏中探索未知的太空，用游戏让非物质文化遗产焕然新生，在游戏里解决找不到男/女朋友、堵车等社会问题……你觉得在游戏世界中，我们可以做些什么呢？
+~~~
+
+~~~
+{}{img_left}{images/rootless.jpg}{rootless}{200}{150}
+- [http://ciga.me/ciga/ 2017 CiGA GameJam 48小时极限游戏创作]
+-- [https://github.com/littleredhat1997/Rootless Rootless]
+-- 和素昧平生的人，从陌生到熟悉，一起实现一个共同的目标，让在这两天一夜里遇到的那些有趣的人和有趣的事，来丰满我们的人生和回忆，我一直觉得这才是game jam活动的真谛。
+~~~
